@@ -1,3 +1,4 @@
+add copyright anchor 'KingMe9956 All Rights Reserved 2026'
 import 'package:flutter/material.dart';
 
 void main() {
